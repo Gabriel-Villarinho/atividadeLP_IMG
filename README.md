@@ -1,4 +1,4 @@
-![image](https://github.com/Gabriel-Villarinho/atividadeLP_IMG/assets/160971416/12a84bc6-78fa-47cb-bc59-a815c3ae26dc)
+
 
 ![image](https://github.com/Gabriel-Villarinho/atividadeLP_IMG/assets/160971416/9799669f-94a2-426f-a26a-56b1d045f7c0)
 

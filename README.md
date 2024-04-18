@@ -1,4 +1,15 @@
+Gabriel Villarinho e Giovanna Santana - 2º Jogos Digitais
 
+# Atividade 1 TDDGA
+<table>
+<tr>
+<td>
+Pesquisa - Conceitos de Imagem
+</table>
+</tr>
+</td>
+
+##
 
 ![image](https://github.com/Gabriel-Villarinho/atividadeLP_IMG/assets/160971416/9799669f-94a2-426f-a26a-56b1d045f7c0)
 
